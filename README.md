@@ -7,6 +7,7 @@ A Windows Forms space shooter game built with C# and .NET Framework 4.5.
 ## Gameplay Video
 
 Click the image for a gameplay video.
+
 [![MeteorRun Gameplay](https://img.youtube.com/vi/GlPtIT7NDRo/0.jpg)](https://www.youtube.com/watch?v=GlPtIT7NDRo)
 
 ## Description
